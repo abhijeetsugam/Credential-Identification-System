@@ -13,8 +13,8 @@ step 3:
 
 # Instruction to Deploy
 
-1. Deploy CredToken.sol and kindly mention total supply of tokens.
+1. Deploy CredToken.sol and kindly mention the total supply of tokens.
 2. Deploy CredAuth.sol and kindly put deployed CredToken.sol address.
-3. Kindly refer Youtube video to find the step by step method
+3. Kindly refer Youtube video to find the step-by-step method.
 
 
